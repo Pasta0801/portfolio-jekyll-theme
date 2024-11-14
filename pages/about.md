@@ -6,4 +6,4 @@ permalink: /about
 
 # Portfolio Jekyll Theme
 
-This was edited by Pawel
+This was edited by Pawel 
