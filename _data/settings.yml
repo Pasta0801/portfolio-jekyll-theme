@@ -4,7 +4,7 @@
 menu:
 - {name: 'Edited', url: ''}
 - {name: 'For',     url: 'blog'}
-- {name: 'Imperial',    url: 'about'}
+- {name: 'About you',    url: 'about'}
 - {name: 'Course',  url: 'contact'}
 
 #-------------------------------
